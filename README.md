@@ -5,3 +5,5 @@ This repository is meant for educational purposes and interview preparation. It'
 
 Let's Get Started!
 Whether you're gearing up for data-focused interviews or seeking to enhance your SQL and Pandas skills, this repository is here to assist you. Best of luck, and happy coding!
+
+Israfil Gasim
