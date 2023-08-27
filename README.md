@@ -4,6 +4,6 @@ Disclaimer
 This repository is meant for educational purposes and interview preparation. It's not affiliated with any specific company or platform. The questions provided are inspired by real interview scenarios, but they aren't direct copies of actual interview questions.
 
 Let's Get Started!
-Whether you're gearing up for data-focused interviews or seeking to enhance your SQL and Pandas skills, this repository is here to assist you. Best of luck, and happy coding
+Whether you're gearing up for data-focused interviews or seeking to enhance your SQL and Pandas skills, this repository is here to assist you. Best of luck, and happy coding!
 
 Israfil Gasim
