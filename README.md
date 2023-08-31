@@ -1,9 +1,31 @@
-Welcome to the SQL and Pandas Interview Practice repository! This resource is designed to help you excel in interviews that focus on data manipulation, analysis, and querying using SQL and Python's Pandas library. Inside this repository, you'll find a thoughtfully curated set of questions that cover both SQL queries and Pandas operations.
+# Pandas
 
-Disclaimer
-This repository is meant for educational purposes and interview preparation. It's not affiliated with any specific company or platform. The questions provided are inspired by real interview scenarios, but they aren't direct copies of actual interview questions.
+## [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/)
 
-Let's Get Started!
-Whether you're gearing up for data-focused interviews or seeking to enhance your SQL and Pandas skills, this repository is here to assist you. Best of luck, and happy coding!
+> Data Filtering
 
-Israfil Gasim
+[595. Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1148. Article Views I](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+> String Methods
+
+[1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+[1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)
+
+> Data Manipulation
+
+
+
+
